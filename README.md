@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="25px" height="27px"> </h1>
+<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="30px" height="30px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Aditya Mourya</samp></h2>
 <h3 align="center"><samp>A passionate learner studying Cyber Security
