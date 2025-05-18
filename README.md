@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="25px" height="27px"> </h1>
+<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="30px" height="30px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Aditya Mourya</samp></h2>
 <h3 align="center"><samp>A passionate learner studying Cyber Security
@@ -17,8 +17,7 @@ A software developer from India</samp> </h3>
 
 <samp>- 📫 Reach me at adityamou01@gmail.com</samp>
 
-<samp>- 🔐 System Locksmith 
-Designing systems that only the right keys can open 🗝️</samp>
+<samp>- 🔐 System Locksmith: Designing systems that only the right keys can open 🗝️</samp>
 
 <samp>- ⌨️ Fun fact: My cloud storage cries every time I train a new model ☁️😭</samp>
 
@@ -28,7 +27,7 @@ Designing systems that only the right keys can open 🗝️</samp>
 <div style="margin-bottom: 60px;"></div>
 <h3 ><samp>✍️Random Dev Quote</samp></h3>
     <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" align="center"/>
     </div>
 
 
@@ -169,6 +168,6 @@ Designing systems that only the right keys can open 🗝️</samp>
 <br>
 <br>
 
-<a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
+<a href="https://www.buymeacoffee.com/itzaditya0"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
 
 </p>
