@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="30px" height="30px"> </h1>
+<h1 align="center"><samp>Coding Tomorrow, One Line at a Time</samp> <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/mario-hello-big.gif" width="25px" height="27px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Aditya Mourya</samp></h2>
 <h3 align="center"><samp>A passionate learner studying Cyber Security
@@ -17,7 +17,8 @@ A software developer from India</samp> </h3>
 
 <samp>- 📫 Reach me at adityamou01@gmail.com</samp>
 
-<samp>- 🔐 System Locksmith: Designing systems that only the right keys can open 🗝️</samp>
+<samp>- 🔐 System Locksmith 
+Designing systems that only the right keys can open 🗝️</samp>
 
 <samp>- ⌨️ Fun fact: My cloud storage cries every time I train a new model ☁️😭</samp>
 
@@ -34,113 +35,115 @@ A software developer from India</samp> </h3>
 <!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br>C
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
-    </td>
-   <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5
     </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
-      <br>Figma
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>Node.js
     </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br>MongoDB
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br>Pandas
     </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br>NumPy
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn
     </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br>TensorFlow
     </td>
-       
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br>PyTorch
+    </td>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="LangChain"/><br>LangChain
+    </td>
   </tr>
- <tr>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
-    </td>
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
-      <br>Android Studio
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
     </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
     </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
-      <br>Linux
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br>Linux
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>          
- </tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/Cisco-Packet-Tracer.svg" width="48" height="48" alt="Cisco Packet Tracer"/><br>Cisco Packet Tracer
+    </td>
+    <td align="center" width="100">
+      <img src="https://svgrepo.com/show/454430/burpsuite-security-software.svg" width="48" height="48" alt="Burpsuite"/><br>Burpsuite
+    </td>
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/itzAditya0/images/main/assets/Nmap-Project-Logo.svg" width="48" height="48" alt="Nmap"/><br>Nmap
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/metasploit.png" width="48" height="48" alt="Metasploit"/><br>Metasploit
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+    <td align="center" width="100">
+      <br>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -166,6 +169,6 @@ A software developer from India</samp> </h3>
 <br>
 <br>
 
-<a href="https://www.buymeacoffee.com/itzAditya0"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
+<a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
 
 </p>
