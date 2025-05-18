@@ -17,8 +17,7 @@ A software developer from India</samp> </h3>
 
 <samp>- 📫 Reach me at adityamou01@gmail.com</samp>
 
-<samp>- 🔐 System Locksmith 
-Designing systems that only the right keys can open 🗝️</samp>
+<samp>- 🔐 System Locksmith: Designing systems that only the right keys can open 🗝️</samp>
 
 <samp>- ⌨️ Fun fact: My cloud storage cries every time I train a new model ☁️😭</samp>
 
